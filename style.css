@@ -1,0 +1,80 @@
+div{
+    margin: 10px;
+    border: 1px solid black;
+    font-size: 20px;
+    height: 80px;
+
+}
+
+#header{
+    background-color: #ccc;
+}
+
+#leftSidebar{
+    background-color: #ccc;
+    float: left;
+    width: 150px;
+    height: 680px;
+}
+
+#rightSidebar{
+    background-color: #ccc;
+    float: right;
+    width: 150px;
+    height: 680px;
+    
+}
+
+#main{
+    background-color: #ccc;
+    height: 700px;
+    margin-left: 170px;
+    margin-right: 170px;
+    background-image: url(https://th.bing.com/th/id/OIP.ihcNxUdJQWATDiNqSgo-dQHaNK?rs=1&pid=ImgDetMain);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 600px;
+    
+}
+
+#footer{
+    background-color: #ccc;
+} 
+.topnav{
+    overflow: hidden;
+    border: none;
+}
+.topnav a{
+    float: left;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+.topnav a:hover{
+    background-color: #ddd;
+    color: black;
+}
+
+.topnav a.active{
+    background-color: green;
+    color: white;
+}
+
+img{
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+
+}
+
+
+ 
+
+   
+
+
+
+
+
+
